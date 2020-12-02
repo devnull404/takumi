@@ -1,0 +1,1 @@
+# Página web estática para TAMUKI uwu
