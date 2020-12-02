@@ -14,6 +14,22 @@ article {
   padding: 10px;
 }
 
+.expandex {
+  display: flex;
+  font-size: 60px;
+  color: #be6798;
+  transition: all 0.3s ease-in-out;
+}
+
+.expandex:hover {
+  font-size: 80px;
+  color: #599c99;
+}
+
+.word {
+  height: 100px;
+}
+
 .persis {
   display: flex;
   color: red;
