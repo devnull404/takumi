@@ -1,0 +1,82 @@
+img {
+  border-radius: 10px;
+}
+
+article {
+  margin: 20px 10px 10px 20px;
+}
+
+.nav {
+  margin: 10px 0 10px 0;
+}
+
+.card {
+  padding: 10px;
+}
+
+.persis {
+  display: flex;
+  color: red;
+  position: sticky;
+  top: 0;
+  z-index: 1070;
+}
+
+.persis-down {
+  display: flex;
+  justify-content: center;
+  position: sticky;
+  bottom: 0;
+  z-index: 1070;
+  background-color: white;
+}
+
+.persis-item1 {
+  background-color: #db5097;
+  width: 20%;
+  height: 5px;
+  z-index: 1070;
+}
+
+.persis-item2 {
+  background-color: #be6798;
+  width: 20%;
+  height: 5px;
+  z-index: 1070;
+}
+
+.persis-item3 {
+  background-color: #9e7b99;
+  width: 20%;
+  height: 5px;
+  z-index: 1070;
+}
+
+.persis-item4 {
+  background-color: #599c99;
+  width: 20%;
+  height: 5px;
+  z-index: 1070;
+}
+
+.persis-item5 {
+  background-color: #cee2dd;
+  width: 20%;
+  height: 5px;
+  z-index: 1070;
+}
+
+article {
+  max-width: 500px;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+.bg-mine {
+  background-color: whitesmoke;
+}
+
+/*# sourceMappingURL=main.css.map */
